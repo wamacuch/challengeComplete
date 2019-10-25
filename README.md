@@ -134,7 +134,7 @@ The Compensation has a JSON schema of:
     },
     "salary": {
       "type": "int"
-    }
+    },
     "effectiveDate": {
       "type": "string"
     }
